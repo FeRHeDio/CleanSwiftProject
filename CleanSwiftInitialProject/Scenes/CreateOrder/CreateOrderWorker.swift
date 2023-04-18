@@ -12,9 +12,7 @@
 
 import UIKit
 
-class CreateOrderWorker
-{
-  func doSomeWork()
-  {
-  }
+class CreateOrderWorker {
+    func doSomeWork() {
+    }
 }
