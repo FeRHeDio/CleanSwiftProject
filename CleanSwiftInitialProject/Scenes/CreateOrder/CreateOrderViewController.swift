@@ -12,7 +12,7 @@
 
 import UIKit
 
-protocol CreateOrderDisplayLogic: class {
+protocol CreateOrderDisplayLogic: AnyObject {
     func displaySomething(viewModel: CreateOrder.Something.ViewModel)
 }
 
